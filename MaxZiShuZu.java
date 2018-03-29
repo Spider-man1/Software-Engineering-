@@ -3,7 +3,7 @@ import java.util.Scanner;
  * Date:29/3/2018
  * author:joe
  */
-public class MaxShuZu {
+public class MaxSum {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
          Scanner in=new Scanner(System.in);
