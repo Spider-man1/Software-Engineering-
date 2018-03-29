@@ -28,14 +28,7 @@ public class MaxShuZu {
         		 }
         	 }
          }
-         if(MaxSum<0)
-         {
-        	 System.out.println(0);
-         }
-         else
-         {
-        	 System.out.println(MaxSum);
-         }
+         System.out.println(MaxSum);
          in.close();
 	}
 }
